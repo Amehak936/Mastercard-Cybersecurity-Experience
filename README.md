@@ -1,6 +1,16 @@
 # Mastercard Cybersecurity Virtual Experience Program  
 ## Phishing Simulation & Security Awareness Project
+![Social Engineering](https://img.shields.io/badge/Skill-Social_Engineering-red)
+![Threat Simulation](https://img.shields.io/badge/Technique-Threat_Simulation-orange)
+![Security Awareness](https://img.shields.io/badge/Domain-Security_Awareness-purple)
+![Risk Mitigation](https://img.shields.io/badge/Focus-Risk_Mitigation-green)
+![Cybersecurity](https://img.shields.io/badge/Field-Cybersecurity-blue)
+![Corporate Security](https://img.shields.io/badge/Context-Corporate_Security-yellow)
 
+🔍 **Focus:** Phishing Simulation | Security Awareness | Social Engineering Defense | Human-Layer Security  
+👤 **Role:** Cybersecurity Analyst / Security Awareness Analyst
+
+---
 ## 📌 Project Overview
 This project was completed as part of the Mastercard Cybersecurity Virtual Experience Program, where I worked as a simulated Security Awareness Analyst focused on phishing threat prevention and employee cybersecurity awareness.
 
