@@ -144,29 +144,66 @@ The improved phishing simulation included:
 - More believable organizational tone
 
 ---
+# 📊 Task 2 — Phishing Campaign Analysis
 
-# 📚 What I Learned
+## Phishing Simulation Results
+
+| Team | Click-Through Rate | Phishing Success Rate |
+|------|-------------------|----------------------|
+| HR | 85% | 75% |
+| Marketing | 40% | 38% |
+| Card Services | 50% | 10% |
+| Engineering | 4% | 1% |
+| IT | 2% | 0% |
+| Reception | 10% | 0% |
+
+---
+
+# 🚨 High-Risk Departments Identified
+
+## HR Department
+- Highest phishing success rate
+- Most vulnerable to credential compromise
+- Required immediate awareness training
+
+## Marketing Department
+- High click-through behavior
+- Increased susceptibility to social engineering attacks
+
+---
+
+# 🛡️ Security Awareness Recommendations
+
+Training recommendations focused on:
+- Identifying phishing indicators
+- Verifying sender legitimacy
+- Recognizing social engineering tactics
+- Inspecting hyperlinks before clicking
+- Reporting suspicious emails
+- Following password security best practices
+
+---
+
+# 📚 Key Lessons Learned
 
 Through this project, I gained hands-on experience in:
-- Understanding phishing attack methodologies
-- Identifying social engineering tactics
-- Designing awareness-focused phishing simulations
-- Improving email realism for security testing
-- Supporting cybersecurity awareness programs
-
-This project strengthened my understanding of how human behavior plays a critical role in organizational cybersecurity defense.
+- Phishing threat analysis
+- Security awareness operations
+- Social engineering tactics
+- Human-centered cybersecurity risks
+- Organizational risk mitigation
+- Employee security training concepts
 
 ---
 
 # 🚀 Project Outcome
 
-Successfully designed and improved a phishing simulation email intended to:
-- Increase employee awareness
-- Simulate realistic phishing attempts
-- Support cybersecurity training initiatives
-- Reduce the likelihood of successful phishing attacks
-
-
+Successfully:
+- Designed a realistic phishing simulation
+- Identified vulnerable departments using campaign metrics
+- Analyzed phishing risks within an organization
+- Developed targeted awareness recommendations
+- Demonstrated practical cybersecurity awareness skills
 
 
 
