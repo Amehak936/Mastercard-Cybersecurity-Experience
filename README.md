@@ -184,6 +184,12 @@ Training recommendations focused on:
 
 ---
 
+# 📂 Security Awareness Presentation
+
+📎 **View Full Training Presentation:**  
+[Security Awareness Presentation ](https://github.com/Amehak936/Mastercard-Cybersecurity-Experience/blob/main/Secuirty%20Awareness%20Presentation%20.pdf)
+
+---
 # 📚 Key Lessons Learned
 
 Through this project, I gained hands-on experience in:
