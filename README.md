@@ -1,86 +1,85 @@
-# Mastercard-Cybersecurity-Experience
-# Mastercard Cybersecurity Virtual Experience Program – Phishing Simulation Project
+# Mastercard Cybersecurity Virtual Experience Program  
+## Phishing Simulation & Security Awareness Project
 
 ## 📌 Project Overview
-This project was completed as part of the Mastercard Cybersecurity Virtual Experience Program, where I worked as a simulated Security Awareness Analyst responsible for designing and improving a phishing email simulation campaign.
+This project was completed as part of the Mastercard Cybersecurity Virtual Experience Program, where I worked as a simulated Security Awareness Analyst focused on phishing threat prevention and employee cybersecurity awareness.
 
-The objective of this project was to understand how phishing attacks target organizations and to create a more realistic phishing email capable of testing employee awareness and improving organizational security training effectiveness.
+The project involved:
+- Designing a realistic phishing email simulation
+- Identifying phishing indicators and social engineering tactics
+- Analyzing phishing campaign results across departments
+- Identifying high-risk teams vulnerable to phishing attacks
+- Developing security awareness training recommendations
+
+This project demonstrates practical experience in phishing analysis, security awareness, social engineering, and cybersecurity risk mitigation.
 
 ---
 
 # 🛡️ Problem Statement
 
-Phishing remains one of the most common and dangerous cybersecurity threats facing organizations today. Attackers frequently use deceptive emails to trick employees into revealing sensitive information such as passwords, financial information, or internal system credentials.
+Phishing is one of the most common cybersecurity threats affecting organizations today. Attackers use deceptive emails and social engineering tactics to trick employees into revealing sensitive information such as:
+- Passwords
+- Financial information
+- Internal system credentials
 
-Many phishing attacks succeed because:
-- Employees fail to recognize malicious indicators
-- Phishing emails increasingly appear legitimate
-- Social engineering tactics exploit urgency and trust
-- Organizations require continuous security awareness training
-
-Mastercard’s Security Awareness Team uses phishing simulation campaigns to educate employees and reduce the risk of successful phishing attacks.
+Human error remains a major security risk, making employee awareness training critical for preventing successful phishing attacks.
 
 ---
 
-# 🎯 Project Objective
+# 🎯 Project Objectives
 
-The primary objective of this project was to:
-- Analyze weaknesses in an obvious phishing email
-- Improve the phishing simulation to appear more realistic
-- Apply social engineering concepts used in real-world attacks
-- Create an email capable of effectively testing employee awareness
-- Support organizational cybersecurity awareness initiatives
+The primary objectives of this project were to:
+- Improve a phishing email simulation to appear more realistic
+- Analyze employee susceptibility to phishing attacks
+- Identify departments with high phishing risk
+- Develop targeted security awareness recommendations
+- Reduce organizational exposure to phishing threats
 
 ---
 
-# 👥 Impact & Importance
-
-## Who Is Affected?
-- Employees targeted by phishing campaigns
-- Security Awareness Teams
-- Organizations handling sensitive customer data
-- IT and Security Operations teams
-- Businesses vulnerable to credential theft and malware infections
+# 👥 Business Impact
 
 ## Why This Matters
 A successful phishing attack can lead to:
-- Credential compromise
-- Unauthorized access
-- Financial loss
-- Malware or ransomware infections
+- Credential theft
+- Unauthorized system access
+- Malware infections
 - Data breaches
-- Reputation damage
+- Financial loss
+- Reputational damage
 
-By conducting phishing simulations, organizations can proactively train employees to identify suspicious emails before real attacks occur.
+Organizations must continuously educate employees to recognize and report phishing attempts before security incidents occur.
 
 ---
 
 # 🧰 Tools & Technologies Used
 
-- Security Awareness Training
 - Phishing Simulation Techniques
-- Social Engineering Concepts
-- Email Security Analysis
-- Threat Awareness Methodologies
+- Security Awareness Training
+- Social Engineering Analysis
+- Email Security Concepts
 - Cybersecurity Risk Assessment
-- Communication & User Awareness Strategies
+- User Behavior Analysis
+- Security Communication Strategies
 
 ---
 
 # 🔍 Key Skills Demonstrated
 
-- Cybersecurity Awareness
 - Phishing Detection & Prevention
-- Social Engineering Analysis
+- Security Awareness Analysis
+- Social Engineering Concepts
 - Threat Identification
-- Security Communication
 - Risk Mitigation
-- Email Security Best Practices
-- Security Awareness Program Support
+- Security Communication
+- Cybersecurity Awareness Training
 
 ---
 
-# 📧 Original Phishing Email
+# 📧 Task 1 — Phishing Email Simulation
+
+
+## 📧 Original Phishing Email
 
 ```text
 From: mastercardsIT@gmail.com
